@@ -1,3 +1,5 @@
 I am Riza Marie A. Calay.
 
 My motivation in joining this open house workshop is to learn new things, explore fresh ideas, and grow both personally and professionally. I’m also looking forward to meeting people with the same interests and hearing about their experiences. I believe this workshop will help me gain more confidence and give me a better understanding of the field I want to pursue.
+
+My work experience is from my internship at Cambridge University Press & Assessment, where I worked with the QA team, developers, and other cross-functional members. I helped test websites, report bugs, and make sure everything worked properly. I also learned how to collaborate with different teams, which gave me a good understanding of the overall software development process.

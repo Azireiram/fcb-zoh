@@ -1,0 +1,137 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Segoe UI", sans-serif;
+	color: #321414;
+}
+
+nav {
+	text-align: center;
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: #bc8f8f;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	font-family: Tahoma, sans-serif;
+	padding: 5px;
+}
+
+body {
+	/*background-color: skyblue;*/
+	background-image: url(https://images.unsplash.com/photo-1636837955417-2d8a4e49368f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+	background-repeat: no repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+h2 {
+	font-family: "Tahoma", sans-serif;
+}
+
+.nav-link {
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+}
+
+.tools-img {
+	height: 150px;
+	width: 150px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 1px solid;
+	border-radius: 75px;
+}
+
+.card {
+	background-color: #a99a86;
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.card-img {
+	height: 300px;
+	width: 400px;
+}
+
+.projectname {
+	margin-bottom: 10px;
+}
+
+#landing {
+	text-align: center;
+}
+
+#profile {
+	height: 320px;
+	width: 300px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 150px;
+}
+
+#name {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#title {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+#intro {
+	width: 370px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tools {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#tools-title {
+	margin-bottom: 20px;
+}
+
+#projects {
+	text-align: center;
+	padding: 10px;
+}
+
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top: 4px;
+	background-color: rosybrown;
+}
+
+#project1 {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#project2 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#project3 {
+	margin-top: 30px;
+	margin-bottom: 1px;
+}
